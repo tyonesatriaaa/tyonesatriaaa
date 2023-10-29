@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tyone Noor Satria</h1>
-<h3 align="center">Student at Politeknik Negeri Malang🌟.</h3>
+<h3 align="center">Web Developer🌟.</h3>
 
 <br>
 
